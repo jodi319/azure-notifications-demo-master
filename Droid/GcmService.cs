@@ -33,7 +33,7 @@ namespace praat
     [IntentFilter(new string[] { Gcm.Client.Constants.INTENT_FROM_GCM_LIBRARY_RETRY }, Categories = new string[] { "@PACKAGE_NAME@" })]
     public class PushHandlerBroadcastReceiver : GcmBroadcastReceiverBase<GcmService>
     {
-        public static string[] SENDER_IDS = new string[] { "986170317117" };
+        public static string[] SENDER_IDS = new string[] { "993646148539" };
     }
     //
 
